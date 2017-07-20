@@ -1,7 +1,8 @@
 {
     "typescript.check.tscVersion": false,
-    "window.zoomLevel": -2,
+    "window.zoomLevel": 0,
     "workbench.colorTheme": "Visual Studio Dark",
     "workbench.iconTheme": "vscode-icons",
-    "go.gopath": "/Users/azenakhi/gocode"
+    //"go.gopath": "/Users/azenakhi/gocode"
+    "go.gopath": "C:\\Donnees\\Projects\\gocode"
 }
