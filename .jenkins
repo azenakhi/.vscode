@@ -1,0 +1,7 @@
+{
+    "url": "https://jenkins.domain.org/job/whiteapp/",
+    "username": "<username>",
+    "password": "<api_token>",
+    "jenkins.polling": 2,
+    "strictTls": false
+}
